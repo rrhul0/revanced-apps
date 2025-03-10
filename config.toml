@@ -41,11 +41,10 @@ apkmirror-dpi = "360-480dpi"
 #build-mode = "both"
 
 [Backdrops]
-apkmirror-dlurl = "https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers"
+#apkmirror-dlurl = "https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers"
 uptodown-dlurl = "https://backdrops.en.uptodown.com/android"
 build-mode = "both"
-apkmirror-dpi = "120-460dpi"
-arch = "noarch"
+#apkmirror-dpi = "120-460dpi"
 
 #[Trakt]
 #apkmirror-dlurl = "https://www.apkmirror.com/apk/trakt/trakt"
