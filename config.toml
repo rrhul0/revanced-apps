@@ -10,7 +10,6 @@ parallel-jobs = 1
 build-mode = "both"
 excluded-patches = ""
 included-patches = ""
-arch = "universal"
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
@@ -39,16 +38,13 @@ apkmirror-dpi = "360-480dpi"
 
 [Reddit]
 apkmirror-dlurl = "https://apkmirror.com/apk/redditinc/reddit/"
-arch = "universal"
 build-mode = "both"
 
 [Backdrops]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers/"
-arch = "universal"
 build-mode = "both"
 apkmirror-dpi = "160-640dpi"
 
 [Trakt]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/trakt/trakt/"
 build-mode = "both"
-arch = "universal"
