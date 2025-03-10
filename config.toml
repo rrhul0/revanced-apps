@@ -44,8 +44,9 @@ build-mode = "both"
 
 [Backdrops]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers/"
-arch = "arm64-v8a"
+arch = "universal"
 build-mode = "both"
+apkmirror-dpi = "160-640dpi"
 
 [Trakt]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/trakt/trakt/"
