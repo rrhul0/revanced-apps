@@ -42,6 +42,7 @@ build-mode = "both"
 
 [Backdrops]
 apkmirror-dlurl = "https://www.apkmirror.com/apk/backdrops/backdrops-wallpapers/"
+uptodown-dlurl = "https://backdrops.en.uptodown.com/android"
 build-mode = "both"
 apkmirror-dpi = "160-640dpi"
 
