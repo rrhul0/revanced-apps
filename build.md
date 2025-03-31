@@ -1,6 +1,6 @@
 Backdrops: 5.2  
-Instagram: 373.0.0.46.67  
 GooglePhotos (arm-v7a): 7.22.0.740933857  
+Instagram: 373.0.0.46.67  
 GooglePhotos (arm64-v8a): 7.22.0.740933857  
 Music (arm64-v8a): 8.05.51  
 Music (arm-v7a): 8.05.51  
