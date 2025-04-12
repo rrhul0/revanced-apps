@@ -1,6 +1,6 @@
 {
-  "version": "v7.24.0.746524260 (patches: 5.19.0)",
-  "versionCode": 3,
-  "zipUrl": "https://github.com/rrhul0/revanced-apps/releases/download/3/googlephotos-revanced-magisk-v7.24.0.746524260-arm-v7a.zip",
+  "version": "v7.24.0.746524260 (patches: 5.19.1)",
+  "versionCode": 4,
+  "zipUrl": "https://github.com/rrhul0/revanced-apps/releases/download/4/googlephotos-revanced-magisk-v7.24.0.746524260-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/rrhul0/revanced-apps/update/build.md"
 }
