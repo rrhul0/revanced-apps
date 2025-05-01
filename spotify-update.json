@@ -1,6 +1,6 @@
 {
-  "version": "v9.0.40.68 (patches: 5.21.0)",
-  "versionCode": 7,
-  "zipUrl": "https://github.com/rrhul0/revanced-apps/releases/download/7/spotify-revanced-magisk-v9.0.40.68-all.zip",
+  "version": "v9.0.40.68 (patches: 5.22.0)",
+  "versionCode": 8,
+  "zipUrl": "https://github.com/rrhul0/revanced-apps/releases/download/8/spotify-revanced-magisk-v9.0.40.68-all.zip",
   "changelog": "https://raw.githubusercontent.com/rrhul0/revanced-apps/update/build.md"
 }
