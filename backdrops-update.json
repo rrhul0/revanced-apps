@@ -1,6 +1,6 @@
 {
-  "version": "v6.0 (patches: 5.32.0)",
-  "versionCode": 20,
-  "zipUrl": "https://github.com/rrhul0/revanced-apps/releases/download/20/backdrops-revanced-magisk-v6.0-all.zip",
+  "version": "v6.0 (patches: 5.33.0)",
+  "versionCode": 21,
+  "zipUrl": "https://github.com/rrhul0/revanced-apps/releases/download/21/backdrops-revanced-magisk-v6.0-all.zip",
   "changelog": "https://raw.githubusercontent.com/rrhul0/revanced-apps/update/build.md"
 }

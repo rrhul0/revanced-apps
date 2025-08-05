@@ -1,6 +1,6 @@
 {
-  "version": "v8.29.56 (patches: 5.32.0)",
-  "versionCode": 20,
-  "zipUrl": "https://github.com/rrhul0/revanced-apps/releases/download/20/music-revanced-magisk-v8.29.56-arm-v7a.zip",
+  "version": "v8.30.51 (patches: 5.33.0)",
+  "versionCode": 21,
+  "zipUrl": "https://github.com/rrhul0/revanced-apps/releases/download/21/music-revanced-magisk-v8.30.51-arm-v7a.zip",
   "changelog": "https://raw.githubusercontent.com/rrhul0/revanced-apps/update/build.md"
 }
